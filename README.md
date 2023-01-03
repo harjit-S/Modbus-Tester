@@ -1,11 +1,12 @@
 This package contains modbus master and slave protocol testers.
 
-#####################################################################################
+*****************
 Modbus Master
+*****************
+
 Version-2.0.1
-Harjit @2022
-mbmaster.pc@gmail.com
-#####################################################################################
+
+Harjit @2022, mbmaster.pc@gmail.com
 
 MB_Master is modbus master/client protocol analyser. This software is build to ease the site testing
 & commissioning at various fields. Currently MB_Master supports:
@@ -42,13 +43,13 @@ Change Logs:
 - Minor bug fix and library version update.
 
 
-
-#####################################################################################
+*****************
 Modbus Slave
+*****************
+
 Version-1.0.1
-Harjit @2022
-mbmaster.pc@gmail.com
-#####################################################################################
+
+Harjit @2022, mbmaster.pc@gmail.com
 
 MB_Slave is modbus slave/server protocol analyser. This software is build to ease the site testing
 & commissioning at various fields. Currently MB_Slave supports:
